@@ -123,4 +123,4 @@ MIT License — open for learning, sharing, and expanding.
 
 ## 👨‍🚀 Author
 
-Built by **Jay Jahanzad** using real NASA data, classical ML models, and a whole lot of curiosity about space.
+Built by **Jay Jahanzad** using real NASA data, classical ML models, and a whole lot of curiosity about space. Thank you to the [NASA Near-Earth Object Program](https://neo.jpl.nasa.gov/) for providing the data used in this project.
