@@ -12,6 +12,7 @@ To predict the **minimum close-approach distance (in kilometers)** between an as
 
 ## 📁 Project Structure
 
+```
 asteroidml/
 ├── data/
 │ ├── neo_raw.json # Raw data from NASA API
@@ -29,6 +30,7 @@ asteroidml/
 ├── .env # Stores your NASA_API_KEY (not committed)
 ├── requirements.txt # Python dependencies
 └── README.md # You're here!
+```
 
 ---
 
